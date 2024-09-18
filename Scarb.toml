@@ -3,6 +3,8 @@ name = "workshop"
 version = "0.1.0"
 edition = "2023_11"
 
+# ijjklmmokmokok;ok
+
 [dependencies]
 starknet = ">=2.6.3"
 kill_switch = {git= "https://github.com/starknet-edu/kill-switch.git"}
@@ -17,4 +19,4 @@ casm = true
 snforge_std = { git = "https://github.com/foundry-rs/starknet-foundry.git", tag = "v0.25.0" }
 
 [scripts]
-test= "snforge test"
+test = "snforge test"
