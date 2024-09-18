@@ -5,8 +5,6 @@ trait ICounter<T> {
 }
 
 
-
-
 #[starknet::contract]
 pub mod Counter {
     use kill_switch::IKillSwitchDispatcherTrait;
