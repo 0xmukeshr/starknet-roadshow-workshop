@@ -10,6 +10,7 @@
     "punycode": "^2.3.1",
     "starknet": "^6.7.0",
     "ts-node": "10.9.2",
+    
     "tslib": "^2.6.2",
     "typescript": "5.3.3"
   }

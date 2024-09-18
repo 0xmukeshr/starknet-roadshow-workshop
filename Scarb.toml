@@ -15,6 +15,7 @@ build-external-contracts = ["kill_switch::KillSwitch"]
 sierra =true
 casm = true
 
+
 [dev-dependencies]
 snforge_std = { git = "https://github.com/foundry-rs/starknet-foundry.git", tag = "v0.25.0" }
 
